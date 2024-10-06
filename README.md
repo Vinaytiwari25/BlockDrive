@@ -1,5 +1,3 @@
-#### BlockDrive
-
 BlockDrive is a decentralized platform that makes securely uploading and sharing images simple and safe, all thanks to blockchain technology. Instead of relying on traditional cloud services, which can be vulnerable to data breaches or outages, BlockDrive uses the InterPlanetary File System (IPFS) to store images in a decentralized way. This means your files are scattered across a global network of computers, ensuring they’re protected from tampering and always accessible.
 
 The cool part? The entire system is powered by smart contracts written in Solidity and deployed on the Ethereum blockchain. These smart contracts give users complete control over who can access their images. You can easily grant or revoke access to specific people, knowing that everything is tracked transparently on the blockchain. Plus, every image uploaded gets a unique cryptographic hash, which is stored on the blockchain, proving that you’re the owner and that the file hasn’t been altered.
